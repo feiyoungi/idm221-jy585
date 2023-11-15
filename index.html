@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fei Young's Portfolio</title>
+    <!--Links to the CSS style sheet-->
+    <link rel="stylesheet" href="/CSS/styles.css">
+    <!--Links to font awesome so I can use their icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <!--Link to return users to the home/index page, how do I get rid of the underlining?-->
+    <nav>
+        <h1><a href=#>飞 | Fei Young</a></h1>
+    </nav>
+
+    <!--Hamburger menu-->
+    <!-- I am thinking about moving this into the nav element above???-->
+    <header>
+        <div class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <!-- this class used to be "<span class .. but i changed it to <a so it wouldn't have that weird extra line.. would that be okay for my code"-->
+        <span class="menu">MENU</span>
+        <!-- Going to add a nav class here too-->
+        <nav class="menu_navigation"></nav>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="projects.html">My Projects</a></li>
+                <ul>
+                    <li><a href="midnight_snacker.html">The Midnight Snacker</a></li>
+                    <li><a href="mediconnect.html">Mediconnect</a></li>
+                    <li><a href="snorlax.html">The Snack Guardian, Snorlax</a></li>
+                </ul>
+                <li><a href="resume.html">Resume</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <p>Hello, my name is <strong>Fei Young</strong>. Nice to meet you.</p>
+
+    <footer class="footer">
+        <h3>Get connected!</h3>
+        <a target="_blank" href="https://www.linkedin.com/in/fei-young-859592274/"><i class="fa-brands fa-linkedin-in" style="color: #271111;"></i></a>
+        <a target="_blank" href="mailto:jy585@drexel.edu"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+        <a target="_blank" href="tel:215-718-7380"><i class="fa fa-phone" aria-hidden="true"></i></a>
+    </footer>
+</body>
+</html>
