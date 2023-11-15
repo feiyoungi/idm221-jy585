@@ -12,6 +12,12 @@ body {
     font-weight: 300;
 }
 
+footer {
+    background-color:#3A4E5F;
+    color: #EBEBEB;
+    padding: 25px;
+}
+
 
 .hamburger {
     margin-right: 10px;
