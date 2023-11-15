@@ -61,7 +61,7 @@ Some activities that I enjoy include creative writing, reading, and playing vide
 
 **Experience**
 
-> Car Wash: *Front desk, cashier*
+> Car Wash: *Front desk, Cashier*
 
 June 2021 – September 2021
 
@@ -69,23 +69,23 @@ June 2021 – September 2021
 - Collaborated with employees and guests to ensure service satisfaction
 - Answered phone calls for scheduling appointments and inquiries about a service or good
 
-> Spread the Love Organization: *member, volunteer* 
+> Spread the Love Organization: *Member, Volunteer* 
 
 July 2021 – August 2021
 
 - Designed cards to inspire emotions such as sincerity and hope for children in need
 - Prepared inspiring words to console and express gratitude
 
-> Cafe Clover: *cashier, barista, chef* 
+> Cafe Clover: *Cashier, Barista, Chef* 
 
 July 2023 – Present
 
 - Multitasked and adapted to the demands of customers and other employees
 - Prepared efficiently to open and close the store
 
-> The Office of the Provost: *office assistant, web designer* 
+> The Office of the Provost: *Office assistant, Web designer* 
 
-Septeber 2023 - Present
+September 2023 - Present
 
 - Facilitate office interactions by answering calls and questions
 - Accomodated to any project assigned at any moment 
@@ -103,8 +103,8 @@ Septeber 2023 - Present
 
 **Professional Affiliations and Activities** 
 
-- Member, Global Chinese Connection, Drexel University, 2023 - present 
-- Member, Society of Asian Scientists and Engineers, Drexel University, 2022 – present
+- Member, Global Chinese Connection, Drexel University, 2023 - Present 
+- Member, Society of Asian Scientists and Engineers, Drexel University, 2022 – Present
 - Member, Asian Student Association, Abington Senior High School, 2021 - 2022
 - Member, Student Inclusion Mission, Abington Senior High School, 2021 - 2022
 
