@@ -1,21 +1,26 @@
-    
-/*@font-face {
-    font-family: 'Poppins';
-    src: url(../fonts/Poppins/Poppins-Regular.ttf) format('ttf');
-    font-weight: normal;
-    font-style: normal;
-}*/
+#wrapper {
+    width:500px;
+}
 
-/* FIX THIS */
 body { 
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
 }
 
+h2 {
+    text-align: center;
+    background-color:#3A4E5F;
+    color: #EBEBEB;
+    padding: 20px;
+}
+
+h3 { 
+    
+}
 footer {
     background-color:#3A4E5F;
     color: #EBEBEB;
-    padding: 25px;
+    padding: 20px;
 }
 
 
@@ -34,6 +39,22 @@ margin-bottom: 5px;
 
 .menu_navigation {
     background-color: ;
+}
+
+
+/* center this?*/
+.button-resume { 
+    background-color: #3A4E5F;
+    padding: 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin:auto;
+}
+
+.button-text { 
+    font-size: 1rem;
+    color:#EBEBEB
 }
 
 
