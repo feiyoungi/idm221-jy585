@@ -92,3 +92,7 @@ nav {
     background-color: #ddd;
     color: black;
   }
+/* I want to change body bold for projects */ 
+  bold {
+    color:;
+  }
