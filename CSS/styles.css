@@ -23,6 +23,16 @@ footer {
     padding: 20px;
 }
 
+footer a {
+    color: white;
+    margin-right: 20px;
+    font-size: 1.5rem
+}
+
+footer h3 {
+    font-size: 1.3rem;
+}
+
 
 .hamburger {
     margin-right: 10px;
@@ -51,11 +61,21 @@ margin-bottom: 5px;
     cursor: pointer;
     margin:auto;
 }
+/* center button div */
+.button-resume-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 35px 0px;
+}
 
 .button-text { 
     font-size: 1rem;
     color:#EBEBEB
 }
 
-
-    
+/* photos */ 
+img {
+    display: flex;
+    width: 100%;
+}
