@@ -8,6 +8,21 @@ body {
     font-weight: 300;
 }
 
+body p {
+    padding: 20px;
+}
+
+body h4 { 
+    padding: 20px;
+}
+
+body li {
+    padding: 0px 20px;
+}
+
+h1 { 
+    padding: 15px;
+}
 h2 {
     text-align: center;
     background-color:#3A4E5F;
@@ -21,7 +36,7 @@ h3 {
 
 .introduction-text {
     text-align: center;
-    font-size: larger;
+    font-size: 30px;
     margin: 20px;
     padding: 250px 80px;
   }
@@ -40,6 +55,7 @@ footer a {
 
 footer h3 {
     font-size: 1.3rem;
+    text-align: left;
 }
 
 .button-resume { 
@@ -95,4 +111,8 @@ nav {
 /* I want to change body bold for projects */ 
   bold {
     color:;
+  }
+
+  .snorlax-image { 
+    padding:0px 0px 40px 0px
   }
