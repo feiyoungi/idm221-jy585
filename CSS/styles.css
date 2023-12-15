@@ -70,28 +70,30 @@ footer h3 {
     text-align: left;
 }
 
-.button-resume { 
+/*button*/
+
+.button-resume {
     background-color: #3A4E5F;
+    color:#EBEBEB;
+    font-size: 1rem;
     padding: 20px;
     border: none;
     border-radius: 30px;
     cursor: pointer;
     margin:auto;
-}
+    
+  }
 
-/* center button div */
-
-.button-resume-div {
+  .button-resume-div {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 35px 0px;
-}
-
-.button-text { 
-    font-size: 1rem;
-    color:#EBEBEB
-}
+  }
+  
+  .button-resume:hover {
+    background-color: #d6d6d6;
+  }
 
 /* photos */ 
 img {
