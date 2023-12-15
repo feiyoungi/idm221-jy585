@@ -70,6 +70,14 @@ ul {
     padding: 0px 40px 40px 40px;
 }
 
+a {
+    color: #d47878;
+}
+
+a h3 {
+    text-align: center;
+}
+
 /* footer */
 
 footer {
