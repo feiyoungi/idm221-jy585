@@ -115,7 +115,8 @@ footer h3 {
     background-color: #d47878;
   }
 
-/* photos */ 
+/* photos */
+
 img {
     display: flex;
     width: 100%;
@@ -127,8 +128,16 @@ img {
 }
 
 .snorlax-image { 
-    padding:0px 0px 40px 0px
+    padding:40px 10px 80px 10px
   }
+
+.mediconnect-board {
+    padding:40px 10px 40px 10px
+}
+
+.black-kelpie { 
+    padding:40px 10px 40px 10px
+}
 
 .snorlax-arduino {
     padding: 10px;
